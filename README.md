@@ -6,7 +6,7 @@ It trains a character-level language model on a given text corpus (Beatles lyric
 ---
 
 ## Features
-- Character-level tokenization (no external tokenizer required).
+- Character-level tokenization.
 - Implements **multi-head self-attention** and **transformer blocks** manually.
 - Training loop with train/validation split and periodic loss evaluation.
 - Text generation using autoregressive sampling.
