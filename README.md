@@ -1,6 +1,6 @@
 # GPT Implementation
 
-This project implements a **GPT** from scratch in PyTorch, inspired by Andrej Karpathy’s tutorials.  
+This project implements a **GPT** from scratch in PyTorch.  
 It trains a character-level language model on a given text corpus (Beatles lyrics in this case) and can generate new text samples.
 
 ---
